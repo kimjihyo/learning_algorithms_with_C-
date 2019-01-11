@@ -2,6 +2,6 @@
 This repository is for learning algorithms and data structure with C++
 
 
-# How to compile in terminal (MAC)
+# How to compile C++ in terminal (MAC)
 
 g++ -o {executable_name} {source_code_name.cpp}
