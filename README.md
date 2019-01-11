@@ -1,4 +1,4 @@
-# learning_algorithms_with_C-
+# learning_algorithms_with_cpp
 This repository is for learning algorithms and data structure with C++
 
 
